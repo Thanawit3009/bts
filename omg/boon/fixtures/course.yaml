@@ -1,0 +1,13 @@
+- model: boon.Course
+  pk: "1"
+  fields:
+    Course_id: "1"
+    Course_name: "math"
+    Teacher_name: "boy"
+- model: boon.Course
+  pk: "2"
+  fields:
+    Course_id: "2"
+    Course_name: "nasa"
+    Teacher_name: "bee"
+
